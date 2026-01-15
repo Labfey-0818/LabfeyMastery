@@ -41,7 +41,6 @@ nav a {
     font-weight: bold;
 }
 
-/* Form Styling */
 form {
     display: flex;
     flex-direction: column;
